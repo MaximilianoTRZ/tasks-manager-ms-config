@@ -1,0 +1,7 @@
+# Archivos temporales
+*.swp
+*.tmp
+
+# IntelliJ IDEA
+.idea/
+*.iml
